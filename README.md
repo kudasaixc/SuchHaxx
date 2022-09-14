@@ -4,3 +4,5 @@
 ![Status](https://img.shields.io/badge/status-online-green)
 # SuchHaxx
 Feat xCh0nster (ty for the help m8)
+### License
+This software is licensed under the [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
